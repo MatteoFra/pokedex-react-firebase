@@ -11,13 +11,23 @@
 ## Deploiement sur Firebase
 
 ```npm run build```
+
 ```npm i -g serve```
+
 ```serve -s build```
+
 
 ### Créer un compte et un projet dans la consle de Firebase
 
 ```npm i firebase-tools```
+
 ```firebase --version```
+
 ```firebase login```
+
 ```firebase init```
+
 ```firebase deploy```
+
+
+#### https://pokedex-react-firebase-5851c.web.app/login
